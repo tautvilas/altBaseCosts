@@ -1,0 +1,64 @@
+Changes
+-------
+
+1.1 (2010-09-20)
+~~~~~~~~~~~~~~~~
+
+- build airport tile changed from x32 to x16
+- aircraft purchase changed from x8 to x4
+- raise/lower land changed from x2048 to x512
+
+1.0 (2009-08-06)
+~~~~~~~~~~~~~~~~
+
+- First public release
+
+Original Base costs modifications:
+
+x1 misc
+x2 build track
+x0.5 build road
+x1 place signal
+x32 build bridge tile
+x2 build rail depot
+x2 build road depot
+x2 build ship depot
+x64 build tunnel unit
+x16 build platform unit
+x0.5 build platform fixed
+x32 build airport tile
+x1 build bus station
+x1 build lorry area
+x64 build dock
+x0.5 locomotive purchase
+x1 waggon purchase
+x8 aircraft purchase
+x0.5 road vehicle purchase
+x2 ship purchase
+x1 plant tree
+x2048 raise/lower land
+x1 clear grass
+x2 clear rough land
+x4 clear rocks
+x2 clear fields
+x1 remove tree
+x1 remove track
+x1 remove signal
+x1 remove bridge tile
+x1 remove rail depot
+x1 remove road depot
+x1 remove ship depot
+x1 remove tunnel tile
+x16 clear water
+x1 remove platform tile
+x1 remove airport tile
+x1 remove bus station
+x1 remove lorry area
+x1 remove dock
+x8192 remove house
+x1 remove road
+x1 steam engine running costs
+x1 diesel engine running costs
+x1 electric engine running costs
+x2 aircraft running costs
+x0.5 road vehicle running costs
